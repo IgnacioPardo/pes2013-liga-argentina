@@ -1,0 +1,4 @@
+PyYAML==6.0.3
+Pillow==11.3.0
+# Used by the optional recorded-audio comparison scripts.
+numpy==1.26.4

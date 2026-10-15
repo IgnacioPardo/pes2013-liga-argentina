@@ -1,0 +1,28 @@
+[
+  {
+    "name": "pes-of-editor",
+    "url": "https://github.com/moth1995/PES_WE_11_14_OF_Editor.git",
+    "commit": "3b0121360b79fa51d4fd09adf03720ef61a01450"
+  },
+  {
+    "name": "pes-file-tools",
+    "url": "https://github.com/the4chancup/pes-file-tools.git",
+    "commit": "9cdfcc5ce902a8908a851787298cf8f79862a3c6"
+  },
+  {
+    "name": "atracdenc",
+    "url": "https://github.com/dcherednik/atracdenc.git",
+    "commit": "cb170709f836cb43dc0312455188c791159d81dc",
+    "patch": "tools/patches/atracdenc-apple-silicon.patch"
+  },
+  {
+    "name": "psp-savedata-endecrypter",
+    "url": "https://github.com/cielavenir/psp-savedata-endecrypter.git",
+    "commit": "c9b4d3733b3877b5886058d1ad556927766e2635"
+  },
+  {
+    "name": "pspdecrypt",
+    "url": "https://github.com/John-K/pspdecrypt.git",
+    "commit": "c156627db7634d395c380c0a9589130f603307fc"
+  }
+]

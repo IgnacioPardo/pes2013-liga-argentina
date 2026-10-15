@@ -1,0 +1,33 @@
+# Track only the source files explicitly listed here. Local game inputs,
+# audio, savedata, keys, tools, builds, recordings and deployments stay local.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/docs/
+/docs/*
+!/docs/*.md
+!/docs/validation.json
+!/conversion/
+/conversion/*
+!/conversion/build-iso.py
+!/conversion/convert.py
+!/conversion/cpk_ids.py
+!/conversion/encode-chants.py
+!/conversion/repack-commentary.py
+!/conversion/package-save.py
+!/conversion/check-recorded-chants.py
+!/conversion/check-recorded-commentary.py
+!/conversion/national-kit-fix/
+/conversion/national-kit-fix/*
+!/conversion/national-kit-fix/apply.py
+!/tools/
+/tools/*
+!/tools/dependencies.json
+!/tools/setup-dependencies.py
+!/tools/patches/
+/tools/patches/*
+!/tools/patches/*.patch
+__pycache__/
+*.pyc
+.DS_Store

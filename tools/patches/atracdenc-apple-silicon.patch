@@ -1,0 +1,9 @@
+diff --git a/CMakeLists.txt b/CMakeLists.txt
+index 6c9187d..d0939c0 100644
+--- a/CMakeLists.txt
++++ b/CMakeLists.txt
+@@ -40,3 +40,3 @@ endif()
+ if(APPLE)
+-    set(CMAKE_OSX_ARCHITECTURES "arm64;x86_64")
++    set(CMAKE_OSX_ARCHITECTURES "arm64")
+ endif()
